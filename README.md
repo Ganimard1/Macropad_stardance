@@ -6,6 +6,8 @@ PCB Link: https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FGanimard1%2FMacr
 PCB:
 I have little to no prior experience in electronics and I wanted to change that by this macropad. Its nothing flashy or complicated. Just 3 keys, 4 leds and an oled screen
 It has 3 keys as I didnt want to deal with matrices just starting out.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/03119841-82df-41d2-821a-ef9ab6f3acfe" />
+
 
 CASE:
 I've always loved how pcbs look and wanted a completely exposed case which shows the pcb with all the soldered parts. At the same time the case is meant to provide a snug fit and suitable enclosure for the pcb and its parts<img 
