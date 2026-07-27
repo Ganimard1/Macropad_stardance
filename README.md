@@ -10,5 +10,5 @@ It has 3 keys as I didnt want to deal with matrices just starting out.
 
 
 CASE:
-I've always loved how pcbs look and wanted a completely exposed case which shows the pcb with all the soldered parts. At the same time the case is meant to provide a snug fit and suitable enclosure for the pcb and its parts<img 
+I've always loved how pcbs look and wanted a completely exposed case which shows the pcb with all the soldered parts. At the same time the case is meant to provide a snug fit and suitable enclosure for the pcb and its parts
 <img width="1920" height="1080" alt="Screenshot 2026-07-26 at 7 38 12 PM" src="https://github.com/user-attachments/assets/821baa7a-fead-4efd-9aea-328f52728c5c" />
