@@ -1,0 +1,11 @@
+
+ENCODER_MAP_ENABLE = yes
+LTO_ENABLE = yes
+
+OLED_TRANSPORT = i2c
+OLED_DRIVER = ssd1306
+
+WS2812_DRIVER = vendor
+
+
+

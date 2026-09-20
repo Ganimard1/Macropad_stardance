@@ -1,0 +1,53 @@
+{
+    "keyboard_name": "mcrpd1",
+    "manufacturer": "Yatharth Damani",
+    "maintainer": "Ganimard1",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "usb": {
+    "vid": "0xFEED",
+    "pid": "0x0001",
+    "device_version": "0.0.1"
+},
+    "features": {
+        "via": true,
+        "oled": true,
+        "encoder": true,
+        "rgblight": true
+    },
+    "matrix_size": {
+        "rows": 1,
+        "cols": 4
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP3", "GP2", "GP1", "GP26"]
+        ]
+    },
+    "encoder": {
+        "rotary": [
+            {
+                "pin_a": "GP27",
+                "pin_b": "GP28"
+            }
+        ]
+    },
+    "rgblight": {
+        "pin": "GP29",
+        "led_count": 4,
+        "driver": "ws2812"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 1, "y": 0 },
+                { "matrix": [0, 2], "x": 2, "y": 0 },
+                { "matrix": [0, 3], "x": 3, "y": 0, "label": "Encoder Button" }
+            ]
+        }
+    }
+}
+
+
+
