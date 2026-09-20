@@ -1,5 +1,5 @@
 # Mcrpd
-This is a rather elementary macropad featuring 3 keys, a rotary encoder, an OLED screen, and 4 leds with QMK based firmware and via support. It's my first hardware project ever and is designed as a submission for the Hackpad V5 as part of the stardance challenge.
+This is a rather elementary macropad featuring 3 keys, a rotary encoder, an OLED screen, and 4 leds with QMK based firmware and via support. It's my first hardware project ever and is designed as a submission for the Hackpad V5 as part of the stardance challenge. I do want to mention here, since this is my first hardware project and I've no prior experience with hardware some AI was used to help me navigate new and unfamiliar tools such as kicad.
 
 ## PCB & Schematic
 The PCB includes a mounting hole that isn't actually a mounting hole. I thought that would be pretty funny. I had to reroute this like 30 times and am really proud of how it turned out (0 DCR errors FINALLY):<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f0a4ede9-e4a1-4e93-acd4-be44903104c0" />
